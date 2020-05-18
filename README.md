@@ -1,5 +1,5 @@
 # hello-world
 intro and Idea bank
 
-ignore the folowing bunch of confussion
+jaba
 first commit
